@@ -1,6 +1,6 @@
 # SKR-mini-E3 V3.0 Marlin firmware
 
-Note: The filename must be renamed to "firmware.bin" before coping this file to the motherboard onboard TF card.
+Note: The filename must be renamed to "firmware.bin" before copying this file to the motherboard onboard TF card.
 
 ### Ender-3 Precompiled firmware
 * [firmware-ender3.bin](./firmware-ender3.bin): The original factory firmware for Ender-3, cannot support BLTouch
